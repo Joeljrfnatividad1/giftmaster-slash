@@ -1,20 +1,19 @@
 {
   "token": "",  
-  "username": "",
-  "password": "", 
+  "username": "root",
+  "password": "root", 
 
   "port": "3000",
   
-  "clientId": "00000000000000000",
-  "guildId": "0000000000000000000",
+  "clientId": "1286894900188807198",
+  "guildId": "1247420995116204126",
 
-  "status": "Made By ScienceGear 🔥",
-  "website": "https://youtube.com/ScienceGearYT",
+  "status": "Made By .gg/mcpack on Top🔥",
   "banner": "https://media.discordapp.net/attachments/960440723369517106/996423763522506782/rainbow-border.gif",
-  "footer": "Made By ScienceGear 🔥",
+  "footer": "Made by Joel",
 
-  "genChannel": "00000000000000000000",
-  "premiumChannel": "00000000000000000000",
+  "genChannel": "1272081363201294371",
+  "premiumChannel": "1272086866354503721",
   "genCooldown": "5",
   "premiumCooldown": "3",
 
